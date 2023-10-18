@@ -1,0 +1,38 @@
+.box{
+    background-color: azure;
+    margin: 20px 20px 20px 20px;
+}
+
+
+
+.fa{
+    color: rgb(240, 126, 33);
+}
+.radio{
+    display: flex;
+    background-color: rgb(225, 221, 221);
+    justify-content: space-around;
+    height: 50px;
+    width: 90%;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+}
+.s{
+    background-color: white;
+    height: 50px;
+    width: 90%;
+    margin: 20px 20px 20px 20px;
+    display: flex;
+   justify-content: space-evenly;
+   justify-items: center;
+}
+.radio1{
+    display: flex;
+    background-color: rgba(193, 235, 121, 0.952);
+    justify-content:space-around;
+    height: 50px;
+    width: 90%;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    justify-items: center;
+}
